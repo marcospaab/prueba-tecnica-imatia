@@ -1,4 +1,4 @@
-# Proyecto Precios - Prueba Técnica
+# Proyecto - Prueba Técnica Imatia
 
 Este proyecto implementa un sistema para gestionar precios de productos con operaciones CRUD y un endpoint personalizado. Se usa **Spring Boot** con **H2 Database** en memoria.
 
